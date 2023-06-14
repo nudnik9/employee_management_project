@@ -4,8 +4,6 @@ import com.iweb.pojo.Employee;
 import com.iweb.view.MainView;
 
 /**
- * Hello world!
- *
  * @author k
  */
 public class App {
